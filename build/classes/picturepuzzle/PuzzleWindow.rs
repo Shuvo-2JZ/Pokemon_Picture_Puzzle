@@ -1,0 +1,2 @@
+picturepuzzle.PuzzleWindow
+picturepuzzle.ItemHandler
